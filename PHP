@@ -1,0 +1,24 @@
+In PHP non devo dichiarare le variabili: se eseguo operazioni su variabili di tipi diversi, fa un cast dando un risultato automatico.
+PHP gestisce la memoria.
+
+Operatori matematici: +-*/
+Operatori su stringhe: . (concatenazione)
+
+Tipi di variabili
+
+- intero
+- stringa
+- float
+- bool
+- array
+
+Due tipi di array (in PHP sono sempre dinamici):
+
+Questa sintassi crea array vuoto (zero elementi)
+
+$lista=array();
+$lista=[];
+
+Questa crea array
+
+array_push(%lista,"ciao")
